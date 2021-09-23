@@ -5,6 +5,7 @@ ANALYSING CONCEPT
 •	With The Groping Function I GroupUp The User Id And Count The Number Of Times Log By Indiduval User And Merge The Logg Count Into User Signup Table.
 •	Using Time Stamp Of Log Analysed The Number Of Log Atleast 3 Times Per Week And Merge It With  The User Signup Table And Make The Adopted Colum With It.
 •	Compare Each Factor Influence The Adoptability Of User(Creation Source, Marketing Drip Enabled, Enabled Opted To Mail And Time Span To Use The App)
+
 ML MODEL USED FOR TRAINING AND PREDICTION
 •	Here I Am Using Logistic Regression Algorithm To Train The Model.
 •	By Using Classification Report We Get 99.5% Accuracy  
